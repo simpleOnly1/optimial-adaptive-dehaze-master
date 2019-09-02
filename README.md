@@ -4,11 +4,11 @@ A Dehaze Algorithm Based on Guided-coefficient-optimized and Adaptive Image Enha
 ---------------------------------------------------------------------------------------------
 Instruction：  
 
-1  DCP                                       He's method  
-2  Meng gaofeng                              Meng's method  
-3  Retinex                                   Retinex method  
-4  Guided&Adaptive                           Our's method  
-5  Evaluate                                  Contains three evaluate method（PSNR，SSIM,IE）  
+1  DCP                                       ---He's method  
+2  Meng gaofeng                              ---Meng's method  
+3  Retinex                                   ---Retinex method  
+4  Guided&Adaptive                           ---Our's method  
+5  Evaluate                                  ---Contains three evaluate method（PSNR，SSIM,IE）  
 
 If you want to get more data about the dahaze image, you can search   
   
