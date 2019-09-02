@@ -1,0 +1,1 @@
+Because the picture costs much memory, so we upload some of the pictures.
