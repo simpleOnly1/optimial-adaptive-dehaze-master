@@ -26,6 +26,9 @@ img1 = cv2.imread(r"4.bmp", cv2.IMREAD_COLOR)
 #        else:
 #           contrast_demo(img1[i,j], 1, 3)
 
+#   If the color.m result < 128, define the c = 1.5, b=10.
+#   else define the c = 1.2, b = 5.
+
 contrast_demo(img1, 1.2, 5)
 
 cv2.waitKey(0)
