@@ -15,4 +15,4 @@ If you want to get more data about the dahaze image, you can search
 --      NYU2 database  
 --      RESIDE dataset  
   
-there exists much more foggy images.  
+there exists much more depth images， you can generate haze images by atmosphere scatter model.  
