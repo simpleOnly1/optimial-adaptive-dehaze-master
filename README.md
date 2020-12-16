@@ -1,5 +1,5 @@
 # optimial-adaptive-dehaze-master
-A Dehaze Algorithm Based on Guided-coefficient-optimized and Adaptive Image Enhancement Method.
+
 
 ---------------------------------------------------------------------------------------------
 Instruction：  
@@ -7,7 +7,7 @@ Instruction：
 **1  DCP                                     _____He's method  
 2  Meng gaofeng                              _____Meng's method  
 3  Retinex                                   _____Retinex's method  
-4  Guided&Adaptive                           _____Our's method  
+4  Guided&Adaptive                           _____test  
 5  Evaluate                                  _____Contains three evaluate method（PSNR，SSIM,IE）**  
 
 If you want to get more data about the dahaze image, you can search   
